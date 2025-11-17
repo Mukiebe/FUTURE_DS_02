@@ -1,38 +1,44 @@
-#📊Business Sales Dashboard– Data Science & Analytics Internship
+#Business Sales Dashboard– Data Science & Analytics Internship
 
-🔍 About the Task
-In this real-world internship task, I created an interactive Power BI visualization that helps business owners understand sales patterns and performance. The goal was to build a clear, professional dashboard that supports better decision-making. 📊
+About the Task
+In this real-world internship task, I created an interactive Power BI visualization that helps business owners understand sales patterns and performance. The goal was to build a clear, professional dashboard that supports better decision-making. 
 
-✅ What I Did
+
+What I Did
 
 Cleaned and validated raw order data to ensure columns such as sales, quantity, and product name were correctly formatted.
 
 Applied relevant filters to focus on significant data points and remove low-impact entries.
 
-Built a Line Chart in Power BI to display overall sales patterns. 📈
+Built a Line Chart in Power BI to display overall sales patterns. 
 
-Applied clear formatting, labels, and tooltips to make the visual easy to interpret. ✨
+Applied clear formatting, labels, and tooltips to make the visual easy to interpret. 
 
-💡 Key Insights
 
-The visualization highlights the most impactful products and categories. 🏆
+Key Insights
 
-Data filters make it simple to focus on high-value sales only. 🎯
+The visualization highlights the most impactful products and categories. 
 
-Interactive features allow quick comparison between different customer segments and regions. 🌍
+Data filters make it simple to focus on high-value sales only. 
 
-🧠 What I Learned
+Interactive features allow quick comparison between different customer segments and regions. 
 
-Effective visual design in Power BI improves how quickly insights can be drawn from complex datasets. 🚀
 
-Using aggregation and filtering makes large datasets easier to interpret without losing key information. 📂
+What I Learned
 
-A well-structured dashboard encourages data exploration and supports better business decisions. 🤝
+Effective visual design in Power BI improves how quickly insights can be drawn from complex datasets. 
 
-🛠 Tools Used
+Using aggregation and filtering makes large datasets easier to interpret without losing key information. 
 
-💻 Power BI Desktop – Data modeling, visualization, and filtering.
+A well-structured dashboard encourages data exploration and supports better business decisions. 
 
-📑 Excel – Initial data exploration and cleanup.
+Tools Used
 
-🙏 Thanks to Future Interns for this amazing opportunity to learn and grow! On to the next task 🚀. I only started my data analysis journey 4 months ago, and this project has been a huge step forward. 🌟
+Power BI Desktop – Data modeling, visualization, and filtering.
+
+Excel – Initial data exploration and cleanup.
+
+Thanks to Future Interns for this amazing opportunity to learn and grow! On to the next task. I only started my data analysis journey 4 months ago, and this project has been a huge step forward. 
+
+
+<img width="2767" height="1600" alt="image" src="https://github.com/user-attachments/assets/bce12703-cf61-41ac-bbb1-f2cb54d952e4" />
