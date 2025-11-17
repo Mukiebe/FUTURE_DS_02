@@ -1,4 +1,4 @@
-#Business Sales Dashboard– Data Science & Analytics Internship
+Business Sales Dashboard– Data Science & Analytics Internship
 
 About the Task
 In this real-world internship task, I created an interactive Power BI visualization that helps business owners understand sales patterns and performance. The goal was to build a clear, professional dashboard that supports better decision-making. 
